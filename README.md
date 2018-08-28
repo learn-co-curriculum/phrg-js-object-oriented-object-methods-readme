@@ -139,6 +139,9 @@ So how did this all come together?  We put together our knowledge that when crea
 
 In this lesson, we've learned the differences between methods and functions, and seen how to add methods to objects through the constructor function.  Now, let's put this new knowledge to practice.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-object-oriented-object-methods-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-object-oriented-object-methods-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 + [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
